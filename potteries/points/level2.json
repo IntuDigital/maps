@@ -1,0 +1,15 @@
+[
+{"icon":"escalator","coords":{"x":125,"y":219}},
+{"icon":"elevator","coords":{"x":115,"y":210}},
+{"icon":"escalator","coords":{"x":161,"y":177}},
+{"icon":"elevator","coords":{"x":178,"y":167}},
+{"icon":"cash_machine","coords":{"x":243,"y":149}},
+{"icon":"customer_services","coords":{"x":266,"y":153}},
+{"icon":"escalator","coords":{"x":296,"y":150}},
+{"icon":"escalator","coords":{"x":330,"y":86}},
+{"icon":"escalator","coords":{"x":331,"y":217}},
+{"icon":"elevator","coords":{"x":345,"y":222}},
+{"icon":"escalator","coords":{"x":367,"y":202}},
+{"icon":"elevator","coords":{"x":424,"y":206}},
+{"icon":"click_and_collect","coords":{"x":266,"y":153}}
+]

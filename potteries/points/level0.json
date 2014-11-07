@@ -1,0 +1,11 @@
+[
+{"icon":"public_transport","coords":{"x":49,"y":590}},
+{"icon":"parking","coords":{"x":32,"y":657}},
+{"icon":"customer_services","coords":{"x":55,"y":643}},
+{"icon":"escalator","coords":{"x":89,"y":621}},
+{"icon":"escalator","coords":{"x":109,"y":610}},
+{"icon":"elevator","coords":{"x":121,"y":600}},
+{"icon":"public_telephone","coords":{"x":115,"y":596}},
+{"icon":"escalator","coords":{"x":272,"y":637}},
+{"icon":"elevator","coords":{"x":286,"y":624}}
+]

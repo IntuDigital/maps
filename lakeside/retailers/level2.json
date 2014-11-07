@@ -1,0 +1,63 @@
+[
+  {
+    "unit": "3025",
+    "logo": "primark", 
+    "transformations": {
+      "scale": 0.2,
+      "translate": {"x": 12, "y": -1}
+    }
+  },
+  {
+    "unit": "3030",
+    "logo": "the_italian_kitchen", 
+    "transformations": {
+      "scale": 0.4,
+      "translate": {"x": 1, "y": 1}
+    }
+  },
+  {
+    "unit": "3006",
+    "logo": "kfc", 
+    "transformations": {
+      "scale": 0.45
+    }
+  },
+  {
+    "unit": "3005",
+    "logo": "burgerking", 
+    "transformations": {
+      "scale": 0.05
+    }
+  },
+  {
+    "unit": "3002",
+    "logo": "cafegiardino", 
+    "transformations": {
+      "scale": 0.37
+    }
+  },
+  {
+    "unit": "3027",
+    "logo": "eds_diner", 
+    "transformations": {
+      "scale": 0.4,
+      "translate": {"x": -1, "y": 0}
+    }
+  },
+  {
+    "unit": "3028",
+    "logo": "tacobell", 
+    "transformations": {
+      "scale": 0.07,
+      "translate": {"x": 0, "y": -3}
+    }
+  },
+  {
+    "unit": "3024",
+    "logo": "pizza_express", 
+    "transformations": {
+      "scale": 0.05,
+      "translate": {"x": -10, "y": 0}
+    }
+  }
+]

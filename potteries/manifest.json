@@ -1,0 +1,31 @@
+{
+  "levels": [
+    {
+      "map": "/maps/potteries/levels/level3.svg",
+      "offset": {"x": 26, "y": 8},
+      "points": "/maps/potteries/points/level3.json",
+      "poi_offset": {"x": 10, "y": 5},
+      "retailers": "/potteries/maps/retailers/level/3"
+    },
+    {
+      "map": "/maps/potteries/levels/level2.svg",
+      "offset": {"x": 35, "y": 80},
+      "points": "/maps/potteries/points/level2.json",
+      "poi_offset": {"x": 10, "y": 9},
+      "retailers": "/potteries/maps/retailers/level/2"
+    },
+    {
+      "map": "/maps/potteries/levels/level1.svg",
+      "offset": {"x": 2, "y": 280},
+      "points": "/maps/potteries/points/level1.json",
+      "poi_offset": {"x": 15, "y": 9},
+      "retailers": "/potteries/maps/retailers/level/1"
+    },
+    {
+      "map": "/maps/potteries/levels/level0.svg",
+      "points": "/maps/potteries/points/level0.json",
+      "poi_offset": {"x": 10, "y": 9},
+      "offset": {"x": 40, "y": 550}
+    }
+  ]
+}

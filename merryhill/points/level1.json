@@ -1,0 +1,11 @@
+[
+    {"icon":"parking","coords":{"x":250,"y":25}},
+    {"icon":"parking","coords":{"x":140,"y":70}},
+    {"icon":"parking","coords":{"x":30,"y":210}},
+    {"icon":"parking","coords":{"x":90,"y":270}},
+
+    {"icon":"shopmobility","coords":{"x":55,"y":190}},
+
+    {"icon":"customer_services","coords":{"x":60,"y":195}},
+    {"icon":"customer_services","coords":{"x":165,"y":165}}
+]

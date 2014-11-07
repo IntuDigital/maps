@@ -1,0 +1,45 @@
+[
+    {"icon":"customer_services","coords":{"x":310,"y":85}},
+
+    {"icon":"baby_changing","coords":{"x":220,"y":40}},
+    {"icon":"baby_changing","coords":{"x":232,"y":140}},
+    {"icon":"baby_changing","coords":{"x":360,"y":165}},
+
+    {"icon":"cash_machine","coords":{"x":240,"y":25}},
+    {"icon":"cash_machine","coords":{"x":208,"y":82}},
+    {"icon":"cash_machine","coords":{"x":220,"y":225}},
+    {"icon":"cash_machine","coords":{"x":300,"y":205}},
+    {"icon":"cash_machine","coords":{"x":360,"y":210}},
+
+    {"icon":"shopmobility","coords":{"x":236,"y":28}},
+
+    {"icon":"public_transport","coords":{"x":243,"y":22}},
+
+    {"icon":"public_telephone","coords":{"x":160,"y":170}},
+
+    {"icon":"toilets","coords":{"x":210,"y":40}},
+    {"icon":"toilets","coords":{"x":350,"y":165}},
+
+    {"icon":"escalator","coords":{"x":210,"y":95}},
+    {"icon":"escalator","coords":{"x":190,"y":115}},
+    {"icon":"escalator","coords":{"x":200,"y":155}},
+    {"icon":"escalator","coords":{"x":365,"y":95}},
+    {"icon":"escalator","coords":{"x":330,"y":115}},
+    {"icon":"escalator","coords":{"x":300,"y":175}},
+
+    {"icon":"elevator","coords":{"x":330,"y":115}},
+    {"icon":"elevator","coords":{"x":365,"y":95}},
+    {"icon":"elevator","coords":{"x":170,"y":160}},
+    {"icon":"elevator","coords":{"x":340,"y":160}},
+    {"icon":"elevator","coords":{"x":360,"y":160}},
+    {"icon":"elevator","coords":{"x":215,"y":45}},
+
+    {"icon":"escalator","coords":{"x":210,"y":40}},
+    {"icon":"escalator","coords":{"x":285,"y":105}},
+    {"icon":"escalator","coords":{"x":275,"y":130}},
+    {"icon":"escalator","coords":{"x":365,"y":160}},
+
+    {"icon":"parking","coords":{"x":335,"y":210}},
+    {"icon":"parking","coords":{"x":215,"y":10}},
+    {"icon":"parking","coords":{"x":240,"y":20}}
+]

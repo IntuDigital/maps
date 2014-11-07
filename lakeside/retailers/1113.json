@@ -1,0 +1,50 @@
+{
+  "name": "Vue Cinema",
+  "description": "Vue boasts a state-of-the-art 9 screen multiplex cinema, all fully installed with the latest breathtaking Sony 4K Digital Projectors with 3 incredible 3D screens, professionally mixed immersive audio quality and stepped stadium seating for the perfect view. All screens are also fitted with the option of luxurious VIP seats. Tickets can be purchased at ANY till.",
+  "address-1": "The Boardwalk",
+  "address-2": "intu Lakeside",
+  "postcode": "RM20 2ZW",
+  "telephone": "08712 240240",
+  "external-url": "http://www.myvue.com/",
+  "external-link-title": "Visit our website",
+  "opening-hours": [
+    {
+      "opens": "10:00am",
+      "closes": "10:00pm"
+    },
+    {
+      "opens": "10:00am",
+      "closes": "10:00pm"
+    },
+    {
+      "opens": "10:00am",
+      "closes": "12:00am"
+    },
+    {
+      "opens": "10:00am",
+      "closes": "10:00pm"
+    },
+    {
+      "opens": "10:00am",
+      "closes": "12:00am"
+    },
+    {
+      "opens": "9:00am",
+      "closes": "12:00am"
+    },
+    {
+      "opens": "9:00am",
+      "closes": "10:00pm"
+    }
+  ],
+  "facilities": [
+    {
+      "type": "giftcard",
+      "description": "This store accepts shopping centre gift cards."
+    },
+    {
+      "type": "clickcollect",
+      "description": "This store provides click and collect."
+    }
+  ]
+}

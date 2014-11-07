@@ -1,0 +1,20 @@
+[
+    {"icon":"toilets","coords":{"x":80,"y":200}},
+    {"icon":"toilets","coords":{"x":250,"y":165}},
+    {"icon":"toilets","coords":{"x":150,"y":265}},
+
+    {"icon":"customer_services","coords":{"x":130,"y":220}},
+
+    {"icon":"baby_changing","coords":{"x":75,"y":205}},
+    {"icon":"baby_changing","coords":{"x":255,"y":160}},
+    {"icon":"baby_changing","coords":{"x":145,"y":260}},
+
+    {"icon":"disabled_toilet","coords":{"x":75,"y":195}},
+    {"icon":"disabled_toilet","coords":{"x":245,"y":160}},
+
+    {"icon":"escalator","coords":{"x":155,"y":215}},
+    {"icon":"escalator","coords":{"x":135,"y":265}},
+
+    {"icon":"elevator","coords":{"x":150,"y":265}},
+    {"icon":"elevator","coords":{"x":165,"y":210}}
+]

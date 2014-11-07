@@ -1,0 +1,22 @@
+{
+  "levels": [
+    {
+      "map": "/maps/chapelfield/levels/level2.svg",
+      "retailers": "/chapelfield/maps/retailers/level/2",
+      "points": "/maps/chapelfield/points/level2.json",
+      "offset": {"x": 45, "y": 20}
+    },
+    {
+      "map": "/maps/chapelfield/levels/level1.svg",
+      "retailers": "/chapelfield/maps/retailers/level/1",
+      "points": "/maps/chapelfield/points/level1.json",
+      "offset": {"x": 12, "y": 220}
+    },
+    {
+      "map": "/maps/chapelfield/levels/level0.svg",
+      "retailers": "/norwhich/maps/retailers/level/0",
+      "points": "/maps/chapelfield/points/level0.json",
+      "offset": {"x": 35, "y": 480}
+    }
+  ]
+}

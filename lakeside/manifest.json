@@ -1,0 +1,37 @@
+{
+  "levels": [
+    {
+      "map": "/maps/lakeside/levels/level2.svg",
+      "retailers": "/lakeside/maps/retailers/level/2",
+      "points": "/maps/lakeside/points/level2.json",
+      "offset": {"x": 137, "y": 36},
+      "label": {
+        "text": "LEVEL 2",
+        "coords": {
+          "x": 100,
+          "y": 200
+        }
+      }
+    },
+    {
+      "map": "/maps/lakeside/levels/level1.svg",
+      "retailers": "/lakeside/maps/retailers/level/1",
+      "points": "/maps/lakeside/points/level1.json",
+      "offset": {"x": 39, "y": 161}
+    },
+    {
+      "map": "/maps/lakeside/levels/level0.svg",
+      "retailers": "/lakeside/maps/retailers/level/0",
+      "points": "/maps/lakeside/points/level0.json",
+      "offset": {"x": 28, "y": 406}
+    }
+  ],
+  "legend": {
+    "parking": {
+      "title": "Car Parking",
+      "description": "With 13,000 free parking spaces, you'll always find a safe place to leave your car at intu Lakeside.",
+      "detail": "All of our car parks have been given the secure car parks awards. We have mobile car park assistants who are on hand to help, and help points located throughout our car parks.",
+      "findoutmore": "/path/to/find/out/more"
+    }
+  }
+}

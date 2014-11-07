@@ -1,0 +1,9 @@
+[
+{"icon":"main_entrances","coords":{"x":426,"y":418}},
+{"icon":"escalator","coords":{"x":201,"y":342}},
+{"icon":"escalator","coords":{"x":207,"y":327}},
+{"icon":"elevator","coords":{"x":235,"y":317}},
+{"icon":"escalator","coords":{"x":276,"y":291}},
+{"icon":"elevator","coords":{"x":294,"y":316}},
+{"icon":"parking","coords":{"x":330,"y":324}}
+]

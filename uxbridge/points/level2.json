@@ -1,0 +1,8 @@
+[
+{"icon":"elevator","coords":{"x":263,"y":112}},
+{"icon":"stairs","coords":{"x":296,"y":118}},
+{"icon":"shopmobility","coords":{"x":319,"y":93}},
+{"icon":"cash_machine","coords":{"x":314,"y":81}},
+{"icon":"stairs","coords":{"x":330,"y":76}},
+{"icon":"elevator","coords":{"x":275,"y":69}}
+]

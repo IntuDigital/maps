@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" class="icon zoom_in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="22" height="22"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" d="M17.161,4.393c-2.811-2.81-7.367-2.81-10.177,0
+		c-2.396,2.397-2.747,6.06-1.057,8.831l-3.836,3.835l2.405,2.404l3.835-3.835c2.77,1.689,6.434,1.339,8.83-1.059
+		C19.971,11.76,19.971,7.203,17.161,4.393 M16.041,13.449c-2.191,2.192-5.745,2.192-7.937,0c-2.191-2.19-2.191-5.745,0-7.937
+		c2.192-2.191,5.746-2.191,7.937,0C18.233,7.705,18.233,11.259,16.041,13.449"/>
+	<polygon clip-path="url(#SVGID_2_)" points="15.434,8.932 12.812,8.932 12.812,6.13 11.502,6.13 11.502,8.932 
+		8.879,8.932 8.879,10.333 11.502,10.333 11.502,13.134 12.812,13.134 12.812,10.333 15.434,10.333 	"/>
+</g>
+</svg>

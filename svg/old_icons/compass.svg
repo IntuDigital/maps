@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" class="icon compass" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<polygon points="14.821,6.624 9.842,9.295 11.445,10.003 12.146,11.601 "/>
+<polygon points="6.172,15.273 11.147,12.6 9.547,11.895 8.841,10.297 "/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="22" height="22"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" d="M16.842,4.857c-3.506-3.507-9.188-3.507-12.693,0
+		c-3.506,3.503-3.506,9.186,0,12.689c3.506,3.507,9.188,3.507,12.693,0C20.348,14.043,20.348,8.36,16.842,4.857 M5.313,16.383
+		c-2.862-2.863-2.862-7.501,0-10.363c2.86-2.864,7.503-2.864,10.363,0c2.862,2.862,2.862,7.5,0,10.363
+		C12.816,19.246,8.173,19.246,5.313,16.383"/>
+</g>
+</svg>

@@ -1,1 +1,4 @@
-[]
+[
+{"icon": "parking" ,"coords": {"x":33","y": 105}},
+{"icon": "parking" ,"coords": {"x":103","y": 74}}
+]

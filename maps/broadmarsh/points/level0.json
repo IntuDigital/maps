@@ -7,7 +7,6 @@
 {"icon":"customer_services","coords":{"x":317,"y":106}},
 {"icon":"cash_machine","coords":{"x":306,"y":105}},
 {"icon":"escalator","coords":{"x":290,"y":100}},
-{"icon":"public_telephone","coords":{"x":311,"y":94}},
-{"icon":"public_telephone","coords":{"x":180,"y":141}},
-{"icon":"public_transport","coords":{"x":178,"y":174}}
+{"icon":"public_transport","coords":{"x":178,"y":174}},
+{"icon":"shopmobility","coords":{"x":280,"y":235}}
 ]

@@ -1,6 +1,6 @@
 [
 {"icon":"escalator","coords":{"x":125,"y":219}},
-{"icon":"elevator","coords":{"x":132,"y":223}},
+{"icon":"cash_machine","coords":{"x":278,"y":158}},
 {"icon":"escalator","coords":{"x":161,"y":177}},
 {"icon":"elevator","coords":{"x":178,"y":167}},
 {"icon":"cash_machine","coords":{"x":103,"y":249}},

@@ -1,6 +1,5 @@
 [
 {"icon":"public_transport","coords":{"x":29,"y":637}},
-{"icon":"customer_services","coords":{"x":85,"y":623}},
 {"icon":"escalator","coords":{"x":94,"y":616}},
 {"icon":"escalator","coords":{"x":119,"y":604}},
 {"icon":"elevator","coords":{"x":121,"y":600}},

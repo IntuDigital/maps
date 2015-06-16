@@ -10,11 +10,12 @@
 {"icon":"escalator","coords":{"x":293,"y":438}},
 {"icon":"escalator","coords":{"x":399,"y":461}},
 {"icon":"elevator","coords":{"x":411,"y":458}},
-{"icon":"customer_services","coords":{"x":355,"y":513}},
 {"icon":"public_transport","coords":{"x":482,"y":462}},
 {"icon":"parking","coords":{"x":400,"y":328}},
 {"icon":"elevator","coords":{"x":362,"y":331}},
 {"icon":"escalator","coords":{"x":353,"y":357}},
 {"icon":"elevator","coords":{"x":325,"y":332}},
+{"icon":"cash_machine","coords":{"x":366,"y":426}},
+{"icon":"cash_machine","coords":{"x":300,"y":381}},
 {"icon":"escalator","coords":{"x":331,"y":335}}
 ]

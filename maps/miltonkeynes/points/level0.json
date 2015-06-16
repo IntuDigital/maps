@@ -2,6 +2,8 @@
 {"icon":"toilets","coords":{"x":80,"y":200}},
 {"icon":"toilets","coords":{"x":250,"y":165}},
 {"icon":"toilets","coords":{"x":150,"y":265}},
+{"icon":"cash_machine","coords":{"x":145,"y":128}},
+{"icon":"cash_machine","coords":{"x":237,"y":150}},
 {"icon":"customer_services","coords":{"x":130,"y":220}},
 {"icon":"baby_changing","coords":{"x":75,"y":205}},
 {"icon":"baby_changing","coords":{"x":255,"y":160}},
@@ -14,6 +16,5 @@
 {"icon":"elevator","coords":{"x":165,"y":210}},
 {"icon":"click_and_collect","coords":{"x":126,"y":214}},
 {"icon":"parking","coords":{"x":115,"y":135}},
-{"icon":"parking","coords":{"x":160,"y":265}},
-{"icon":"shopmobility","coords":{"x":170,"y":86}}
+{"icon":"parking","coords":{"x":160,"y":265}}
 ]

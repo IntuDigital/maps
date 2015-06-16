@@ -1,4 +1,10 @@
 [
-{"icon": "parking", "coords": {"x":33, "y": 105}},
-{"icon": "parking", "coords": {"x":103, "y": 74}}
+{"icon": "parking", "coords": {"x":33, "y":105}},
+{"icon": "parking", "coords": {"x":103, "y":74}},
+{"icon": "parking", "coords": {"x":93, "y":53}},
+{"icon": "parking", "coords": {"x":42, "y":73}},
+{"icon": "parking", "coords": {"x":162, "y":50}},
+{"icon": "parking", "coords": {"x":38, "y":127}},
+{"icon": "parking", "coords": {"x":70, "y":167}},
+{"icon": "parking", "coords": {"x":85, "y":132}}
 ]

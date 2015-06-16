@@ -1,5 +1,11 @@
 [
-{"icon": "parking", "coords": {"x":90,"y":270}},
+{"icon": "parking", "coords": {"x":57,"y":256}},
+{"icon": "parking", "coords": {"x":62,"y":145}},
+{"icon": "parking", "coords": {"x":131,"y":86}},
+{"icon": "parking", "coords": {"x":167,"y":19}},
+{"icon": "parking", "coords": {"x":241,"y":32}},
+{"icon": "click_and_collect", "coords": {"x":264,"y":61}},
+{"icon": "elevator", "coords": {"x":249,"y":147}},
 {"icon": "shopmobility", "coords": {"x":55,"y":190}},
 {"icon": "escalator", "coords": {"x":140, "y": 310}},
 {"icon": "escalator", "coords": {"x":117, "y": 301}},

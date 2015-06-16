@@ -1,8 +1,9 @@
 [
 {"icon": "parking", "coords": {"x":70, "y":230}},
+{"icon": "parking", "coords": {"x":200, "y":234}},
+{"icon": "parking", "coords": {"x":266, "y":165}},
 {"icon": "cash_machine", "coords": {"x":206, "y":271}},
 {"icon": "elevator", "coords": {"x":164, "y":258}},
-{"icon": "public_telephone", "coords": {"x":164, "y":258}},
 {"icon": "cash_machine", "coords": {"x":139, "y":313}},
 {"icon": "escalator", "coords": {"x":134, "y":269}},
 {"icon": "public_telephone", "coords": {"x":122, "y":265}},

@@ -8,7 +8,9 @@
 {"icon":"toilets","coords":{"x":170,"y":428}},
 {"icon":"baby_changing","coords":{"x":166,"y":418}},
 {"icon":"escalator","coords":{"x":246,"y":420}},
-{"icon":"cash_machine","coords":{"x":264,"y":404}},
+{"icon":"cash_machine","coords":{"x":221,"y":446}},
+{"icon":"parking","coords":{"x":128,"y":525}},
+{"icon":"escalator","coords":{"x":229,"y":443}},
 {"icon":"elevator","coords":{"x":265,"y":409}},
 {"icon":"escalator","coords":{"x":302,"y":379}},
 {"icon":"elevator","coords":{"x":313,"y":376}}

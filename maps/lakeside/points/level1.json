@@ -28,6 +28,7 @@
 {"icon": "cash_machine", "coords": {"x": 435, "y": 206}},
 {"icon": "elevator", "coords": {"x": 437, "y": 227}},
 {"icon": "parking", "coords": {"x": 464, "y": 217}},
+{"icon": "parking", "coords": {"x": 477, "y": 199}},
 {"icon": "baby_changing", "coords": {"x": 460, "y": 192}},
 {"icon": "cash_machine", "coords": {"x": 447, "y": 187}},
 {"icon": "elevator", "coords": {"x": 376, "y": 164}},

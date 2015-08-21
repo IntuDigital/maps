@@ -1,5 +1,3 @@
 [
-    {"icon":"escalator","coords":{"x":60,"y":80}},
-
-    {"icon":"elevator","coords":{"x":65,"y":75}}
+{"icon":"escalator","coords":{"x":60,"y":80}}
 ]

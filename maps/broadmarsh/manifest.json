@@ -1,17 +1,17 @@
 {
   "levels": [
     {
-      "map": "/maps/broadmarsh/levels/level0.svg",
-      "retailers": "/broadmarsh/maps/retailers/level/0",
+      "map": "/maps/broadmarsh/levels/level1.svg",
+      "retailers": "/broadmarsh/maps/retailers/level/1",
       "points": "/maps/broadmarsh/points/level1.json",
-      "poi_offset": {"x": 5, "y": 85},
+      "poi_offset": {"x": 5, "y": -170},
       "offset": {"x": 55, "y": 89}
     },
     {
-      "map": "/maps/broadmarsh/levels/level1.svg",
-      "retailers": "/broadmarsh/maps/retailers/level/1",
+      "map": "/maps/broadmarsh/levels/level0.svg",
+      "retailers": "/broadmarsh/maps/retailers/level/0",
       "points": "/maps/broadmarsh/points/level0.json",
-      "poi_offset": {"x": 0, "y": 86},
+      "poi_offset": {"x": 0, "y": 341},
       "offset": {"x": 50, "y": 345}
     }
   ]

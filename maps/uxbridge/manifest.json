@@ -1,11 +1,10 @@
 {
   "levels": [
     {
-      "map": "/maps/uxbridge/levels/level0.svg",
+      "map": "/maps/uxbridge/levels/level2.svg",
       "retailers": "/uxbridge/maps/retailers/level/2",
-      "points": "/maps/uxbridge/points/level0.json",
-      "offset": {"x": 40, "y": 398},
-      "poi_offset": {"x": 0, "y": 18}
+      "points": "/maps/uxbridge/points/level2.json",
+      "offset": {"x": 108, "y": 14}
     },
     {
       "map": "/maps/uxbridge/levels/level1.svg",
@@ -14,10 +13,11 @@
       "offset": {"x": 60, "y": 130}
     },
     {
-      "map": "/maps/uxbridge/levels/level2.svg",
+      "map": "/maps/uxbridge/levels/level0.svg",
       "retailers": "/uxbridge/maps/retailers/level/0",
-      "points": "/maps/uxbridge/points/level2.json",
-      "offset": {"x": 108, "y": 14}
+      "points": "/maps/uxbridge/points/level0.json",
+      "offset": {"x": 40, "y": 398},
+      "poi_offset": {"x": 0, "y": 18}
     }
   ]
 }

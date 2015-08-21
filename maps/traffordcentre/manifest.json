@@ -2,6 +2,8 @@
   "levels": [
     {
       "map": "/maps/traffordcentre/levels/level2.svg",
+      "retailers": "/traffordcentre/maps/retailers/level/2",
+      "points": "/maps/traffordcentre/points/level2.json",
       "offset": {"x": 50, "y": 30}
     },
     {

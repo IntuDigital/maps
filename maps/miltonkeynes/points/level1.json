@@ -1,0 +1,7 @@
+[
+{"icon":"elevator","coords":{"x":196,"y":53}},
+{"icon":"escalator","coords":{"x":180,"y":63}},
+{"icon":"toilets","coords":{"x":145,"y":66}},
+{"icon":"baby_changing","coords":{"x":160,"y":80}},
+{"icon":"parking","coords":{"x":187,"y":94}}
+]

@@ -11,8 +11,8 @@
       "map": "/maps/miltonkeynes/levels/level0.svg",
       "retailers": "/miltonkeynes/maps/retailers/level/0",
       "points": "/maps/miltonkeynes/points/level0.json",
-      "poi_offset": {"x": 70, "y": 300},
-      "offset": {"x": 70, "y": 300}
+      "poi_offset": {"x": 70, "y": 240},
+      "offset": {"x": 70, "y": 240}
     }
   ]
 }

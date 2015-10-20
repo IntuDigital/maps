@@ -23,5 +23,6 @@
 {"icon":"elevator","coords":{"x":447,"y":171}},
 {"icon":"stairs","coords":{"x":456,"y":176}},
 {"icon":"baby_changing","coords":{"x":280,"y":459}},
-{"icon":"escalator","coords":{"x":234,"y":153}}
+{"icon":"escalator","coords":{"x":234,"y":153}},
+{"icon":"customer_services","coords":{"x":412,"y":154}}
 ]

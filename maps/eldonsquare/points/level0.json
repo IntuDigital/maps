@@ -18,5 +18,5 @@
 {"icon":"cash_machine","coords":{"x":381,"y":351}},
 {"icon":"cash_machine","coords":{"x":360,"y":363}},
 {"icon":"disabled_toilet","coords":{"x":249,"y":492}},
-{"icon":"disabled_toilet","coords":{"x":206,"y":384}}
+{"icon":"public_transport","coords":{"x":206,"y":384}}
 ]

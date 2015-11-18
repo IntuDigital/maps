@@ -1,6 +1,20 @@
 {
   "levels": [
     {
+      "map": "/maps/braehead/levels/level4.svg",
+      "retailers": "/braehead/maps/retailers/level/4",
+      "points": "/maps/braehead/points/level4.json",
+      "poi_offset": {"x": 0, "y": 0},
+      "offset": {"x": 0, "y": 130}
+    },
+    {
+      "map": "/maps/braehead/levels/level3.svg",
+      "retailers": "/braehead/maps/retailers/level/3",
+      "points": "/maps/braehead/points/level3.json",
+      "poi_offset": {"x": 0, "y": 0},
+      "offset": {"x": 0, "y": 340}
+    },
+    {
       "map": "/maps/braehead/levels/level2.svg",
       "retailers": "/braehead/maps/retailers/level/2",
       "points": "/maps/braehead/points/level2.json",

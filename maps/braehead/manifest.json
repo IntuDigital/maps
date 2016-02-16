@@ -5,35 +5,35 @@
       "retailers": "/braehead/maps/retailers/level/4",
       "points": "/maps/braehead/points/level4.json",
       "poi_offset": {"x": 0, "y": 0},
-      "offset": {"x": 0, "y": 130}
+      "offset": {"x": 0, "y": 140}
     },
     {
       "map": "/maps/braehead/levels/level3.svg",
       "retailers": "/braehead/maps/retailers/level/3",
       "points": "/maps/braehead/points/level3.json",
       "poi_offset": {"x": 0, "y": 0},
-      "offset": {"x": 0, "y": 340}
+      "offset": {"x": 0, "y": 350}
     },
     {
       "map": "/maps/braehead/levels/level2.svg",
       "retailers": "/braehead/maps/retailers/level/2",
       "points": "/maps/braehead/points/level2.json",
-      "poi_offset": {"x": 0, "y": -130},
-      "offset": {"x": 50, "y": 98}
+      "poi_offset": {"x": 150, "y": -130},
+      "offset": {"x": 200, "y": 98}
     },
     {
       "map": "/maps/braehead/levels/level1.svg",
       "retailers": "/braehead/maps/retailers/level/1",
       "points": "/maps/braehead/points/level1.json",
-      "poi_offset": {"x": 0, "y": 270},
-      "offset": {"x": 50, "y": 300}
+      "poi_offset": {"x": 150, "y": 270},
+      "offset": {"x": 200, "y": 300}
     },
     {
       "map": "/maps/braehead/levels/level0.svg",
       "retailers": "/braehead/maps/retailers/level/0",
       "points": "/maps/braehead/points/level0.json",
-      "poi_offset": {"x": 0, "y": 70},
-      "offset": {"x": 50, "y": 500}
+      "poi_offset": {"x": 150, "y": 70},
+      "offset": {"x": 200, "y": 500}
     }
   ]
 }

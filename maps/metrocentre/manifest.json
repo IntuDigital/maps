@@ -4,8 +4,8 @@
       "map": "/maps/metrocentre/levels/level1.svg",
       "retailers": "/metrocentre/maps/retailers/level/1",
       "points": "/maps/metrocentre/points/level1.json",
-      "poi_offset": {"x": 145, "y": 10},
-      "offset": {"x": 200, "y": 100}
+      "poi_offset": {"x": 295, "y": 10},
+      "offset": {"x": 350, "y": 100}
     },
     {
       "map": "/maps/metrocentre/levels/level2.svg",

@@ -4,15 +4,21 @@
       "map": "/maps/metrocentre/levels/level1.svg",
       "retailers": "/metrocentre/maps/retailers/level/1",
       "points": "/maps/metrocentre/points/level1.json",
-      "poi_offset": {"x": -5, "y": 10},
-      "offset": {"x": 50, "y": 100}
+      "poi_offset": {"x": 295, "y": 10},
+      "offset": {"x": 350, "y": 100}
+    },
+    {
+      "map": "/maps/metrocentre/levels/level2.svg",
+      "retailers": "/metrocentre/maps/retailers/level/2",
+      "points": "/maps/metrocentre/points/level2.json",
+      "offset": {"x": 50, "y": 500}
     },
     {
       "map": "/maps/metrocentre/levels/level0.svg",
       "retailers": "/metrocentre/maps/retailers/level/0",
       "points": "/maps/metrocentre/points/level0.json",
-      "poi_offset": {"x": -10, "y": 90},
-      "offset": {"x": 50, "y": 400}
+      "poi_offset": {"x": 340, "y": 190},
+      "offset": {"x": 400, "y": 500}
     }
   ]
 }

@@ -4,7 +4,7 @@
       "map": "/maps/metrocentre/levels/level1.svg",
       "retailers": "/metrocentre/maps/retailers/level/1",
       "points": "/maps/metrocentre/points/level1.json",
-      "poi_offset": {"x": 295, "y": 10},
+      "poi_offset": {"x": 12, "y": 17},
       "offset": {"x": 350, "y": 100}
     },
     {
@@ -17,7 +17,7 @@
       "map": "/maps/metrocentre/levels/level0.svg",
       "retailers": "/metrocentre/maps/retailers/level/0",
       "points": "/maps/metrocentre/points/level0.json",
-      "poi_offset": {"x": 340, "y": 190},
+      "poi_offset": {"x": 12, "y": 17},
       "offset": {"x": 400, "y": 500}
     }
   ]

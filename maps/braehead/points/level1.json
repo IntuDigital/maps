@@ -17,7 +17,7 @@
 {"icon":"elevator","coords":{"x":394,"y":141}},
 {"icon":"disabled_toilet","coords":{"x":379,"y":114}},
 {"icon":"stairs","coords":{"x":444,"y":115}},
-{"icon":"public_transport","coords":{"x":475,"y":109}},
+{"icon":"public_transport","coords":{"x":475,"y":117}},
 {"icon":"public_transport","coords":{"x":480,"y":154}},
 {"icon":"parking","coords":{"x":463,"y":198}},
 {"icon":"toilets","coords":{"x":376,"y":118}},

@@ -4,29 +4,29 @@
             "map": "/maps/derby/levels/level3.svg",
             "retailers": "/derby/maps/retailers/level/3",
             "points": "/maps/derby/points/level3.json",
-            "poi_offset": {"x": 280, "y": 5},
-            "offset": {"x": 280, "y": 5}
+            "poi_offset": {"x": 350, "y": 5},
+            "offset": {"x": 350, "y": 5}
         },
         {
             "map": "/maps/derby/levels/level2.svg",
             "retailers": "/derby/maps/retailers/level/2",
             "points": "/maps/derby/points/level2.json",
-            "poi_offset": {"x": 140, "y": 5},
-            "offset": {"x": 140, "y": 5}
+            "poi_offset": {"x": 70, "y": 5},
+            "offset": {"x": 70, "y": 5}
         },
         {
             "map": "/maps/derby/levels/level1.svg",
             "retailers": "/derby/maps/retailers/level/1",
             "points": "/maps/derby/points/level1.json",
-            "poi_offset": {"x": 70, "y": 115},
-            "offset": {"x": 70, "y": 115}
+            "poi_offset": {"x": 70, "y": 175},
+            "offset": {"x": 70, "y": 175}
         },
         {
             "map": "/maps/derby/levels/level0.svg",
             "retailers": "/derby/maps/retailers/level/0",
             "points": "/maps/derby/points/level0.json",
-            "poi_offset": {"x": 70, "y": 350},
-            "offset": {"x": 70, "y": 350}
+            "poi_offset": {"x": 70, "y": 410},
+            "offset": {"x": 70, "y": 410}
         }
     ]
 }

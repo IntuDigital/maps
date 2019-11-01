@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" class="icon pencil" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<rect x="9.756" y="1.587" transform="matrix(0.7073 0.7069 -0.7069 0.7073 8.6747 -5.0574)" width="1.376" height="12.719"/>
-<rect x="11.518" y="3.349" transform="matrix(0.7076 0.7066 -0.7066 0.7076 10.428 -5.7862)" width="1.377" height="12.718"/>
-<rect x="13.28" y="5.112" transform="matrix(0.7073 0.7069 -0.7069 0.7073 12.1972 -6.5167)" width="1.376" height="12.717"/>
-<polygon points="4.551,12.867 9.046,17.363 3.96,17.85 "/>
-</svg>

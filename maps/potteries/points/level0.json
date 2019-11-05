@@ -1,9 +1,0 @@
-[
-{"icon":"public_transport","coords":{"x":29,"y":637}},
-{"icon":"escalator","coords":{"x":94,"y":616}},
-{"icon":"escalator","coords":{"x":119,"y":604}},
-{"icon":"elevator","coords":{"x":121,"y":600}},
-{"icon":"escalator","coords":{"x":272,"y":637}},
-{"icon":"elevator","coords":{"x":286,"y":624}},
-{"icon":"elevator","coords":{"x":94,"y":607}}
-]

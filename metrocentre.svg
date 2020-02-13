@@ -489,6 +489,6 @@
     <path class="unit" fill="#fff" stroke="#ddd" stroke-width=".5" d="M153.5,81.5 L131.3,90.2 L129.9,88.9 L152.1,80.1 L153.5,81.5 L153.5,81.5 Z M153.5,81.5" id="unit-1171"/>
     <path class="unit" fill="#fff" stroke="#ddd" stroke-width=".5" d="M362.7,98 L360.7,98.9 L359.3,97.5 L361.3,96.6 L362.7,98 Z M362.7,98" id="unit-1172"/>
     <path class="unit" fill="#fff" stroke="#ddd" stroke-width=".5" d="M213.8,76.6 L211.8,77.6 L210.4,76.1 L212.4,75.2 L213.8,76.6 Z M213.8,76.6" id="unit-1173"/>
-		<path class="unit" fill="#fff" stroke="#ddd" stroke-width=".5" d="M176.4 77.1l-2 1-1.4-1.5 2-.9 1.4 1.4z" id="unit-1174"/>
+    <path class="unit" fill="#fff" stroke="#ddd" stroke-width=".5" d="M176.4 77.1l-2 1-1.4-1.5 2-.9 1.4 1.4z" id="unit-1174"/>
   </g>
 </svg>
